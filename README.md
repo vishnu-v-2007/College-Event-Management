@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COLLEGE EVENT MANAGEMENT SYSTEM (CEMS)
 ## Full-Stack Web Development Project | BCA (Data Science)
 
@@ -223,3 +224,7 @@ All 22 test cases specified in the project requirements were verified and passed
 
 Developed for **BCA (Data Science)** Academic Submission.
 
+=======
+# College-Event-Management
+A web-based College Event Management System to manage college events, registrations and student participation.
+>>>>>>> 09369d7af113c015d4db3874c9683ee28a25eef0
